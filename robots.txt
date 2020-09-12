@@ -1,0 +1,4 @@
+Sitemap: https://neelpatelpdx.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: neelpatelpdx.github.io
